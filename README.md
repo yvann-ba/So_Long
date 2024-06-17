@@ -10,10 +10,10 @@
 https://github.com/rphlr/42-Subjects/blob/main/common-core/so_long/en.subject.pdf
 
 ## 🌟 Features
-- 🌀 Navigate through complex mazes
-- 💎 Collect items to increase your score
-- 🚧 Avoid obstacles and enemies
-- 🎮 Simple graphical interface using a C 2D library
+- Navigate through complex mazes
+- Collect items to increase your score
+- Avoid obstacles and enemies
+- Simple graphical interface using a C 2D library
 
 ## ⚙️ Installation
 
